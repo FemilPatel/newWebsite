@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "name": "VairagBorad",
+      "username": "Vairag",
+      "email": "Vairag@gmail.com",
+      "phone": "9990009912",
+      "website": "VairagCoder003@gmail.com",
+      "id": 12
+    },
+    {
+      "name": "RajSabhaya",
+      "username": "Raj sabhaya",
+      "email": "rajsabhaya100@gmail.com",
+      "phone": "9876543908",
+      "website": "rajcoderwebsite@gmail.com",
+      "id": 13
+    }
+  ]
+}

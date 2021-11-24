@@ -1,0 +1,80 @@
+Skip to content
+Why GitHub? 
+Team
+Enterprise
+Explore 
+Marketplace
+Pricing 
+Search
+
+Sign in
+Sign up
+indracahyae
+/
+reactJs-simple-crud
+01722
+Code
+Issues
+Pull requests
+2
+Actions
+Projects
+Security
+Insights
+Join GitHub today
+GitHub is home to over 50 million developers working together to host and review code, manage projects, and build software together.
+
+reactJs-simple-crud/src/App.css
+@indracahyae
+indracahyae init
+Latest commit 9d84e2f on Apr 25, 2018
+ History
+ 1 contributor
+46 lines (40 sloc)  642 Bytes
+  
+.App {
+  margin: auto;
+  width: 50%;
+}
+
+.myForm{
+  width: 100%;
+  background-color: #dfe6e9;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.formField{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: block;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+.myButton{
+  width: 100%;
+  background-color: #00b894;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.myList{
+  list-style: none;
+}
+
+.myListButton{
+  display: inline-block;
+  height: auto;
+  width: auto;
+  border-radius: 7px;
+  border: 1px solid #00b894;
+  margin: 3px 5px;
+}
+
